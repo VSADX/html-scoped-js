@@ -18,7 +18,7 @@
             
             const add = () => r++
             
-            export let r = 4
+            let r = 4
         </script>
     </section>
 ```
